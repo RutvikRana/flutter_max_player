@@ -34,24 +34,24 @@ zoomer: to zoom on video ( created by me :) )
 			this.source,                            //Source Of Video URL / AssetPath / FilePath
 			{this.sourceType = SourceType.Asset,    //Type Of Source default is Asset
 			this.height,                            //Height (Optional)
-			this.width,								//Widget (Optional)
-			this.autoPlay = false,					//AutoPlay on start ?
-			this.muteOnPlay = false,				//Mute On Start ?
-			this.getController,						//Get VideoPlayerController of video_player
-			this.hideShowDuration = 				//Hide/Show Animation Duration
+			this.width,				//Widget (Optional)
+			this.autoPlay = false,			//AutoPlay on start ?
+			this.muteOnPlay = false,		//Mute On Start ?
+			this.getController,			//Get VideoPlayerController of video_player
+			this.hideShowDuration = 		//Hide/Show Animation Duration
 				const Duration(milliseconds: 500),
-			this.maxZoomScale=2.0,					// Maximum Zoom
-			this.minZoomScale=0.5,					// Minimum Zoom
-			this.onBackClick,						// On Back Button Click
-			this.onNextClick,						// On Next Button Click
-			this.scrubDragConstant=0.2,				// Scrub ( Horizontal ) Drag Constant
-			this.volumeDragConstant=0.01,			// Volume Drag Constant
-			this.videoPlayerOptions,				// Same of video_player
-			this.leading,							// Leading of titlebar
-			this.title,								// Title of titlebar
-			this.tailing,							// Trailing of titlebar
-			this.rebuildOnupdate = false,			// If true Re-Initialisation on didUpdateWidget
-			this.videotheme							// ColorTheme
+			this.maxZoomScale=2.0,			// Maximum Zoom
+			this.minZoomScale=0.5,			// Minimum Zoom
+			this.onBackClick,			// On Back Button Click
+			this.onNextClick,			// On Next Button Click
+			this.scrubDragConstant=0.2,		// Scrub ( Horizontal ) Drag Constant
+			this.volumeDragConstant=0.01,		// Volume Drag Constant
+			this.videoPlayerOptions,		// Same of video_player
+			this.leading,				// Leading of titlebar
+			this.title,				// Title of titlebar
+			this.tailing,				// Trailing of titlebar
+			this.rebuildOnupdate = false,		// If true Re-Initialisation on didUpdateWidget
+			this.videotheme				// ColorTheme
 		});
 ```
 2. VideoViewTheme Class To Change Colors 
