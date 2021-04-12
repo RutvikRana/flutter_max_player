@@ -23,8 +23,8 @@ Max Player - To Make Video Player Widget
 	  zoomer: ^0.0.4	  
 ```
 
-video_player: Dependency made by Flutter Team.
-screen: to control brightness
+video_player: Dependency made by Flutter Team.<br>
+screen: to control brightness<br>
 zoomer: to zoom on video ( created by me :) )
 
 ## Syntax
