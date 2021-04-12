@@ -4,7 +4,7 @@
 Max Player - To Make Video Player Widget
 
 ## preview
-<img src="https://raw.githubusercontent.com/RutvikRana/flutter_max_player/main/video_example/example.gif" alt="" width="400" height="200">
+<img src="https://raw.githubusercontent.com/RutvikRana/flutter_max_player/main/video_example/example.gif" alt="" width="400" height="250">
 
 ## What It Can Do?
 * Play Videos From Asset / Network / File
