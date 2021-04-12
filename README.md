@@ -15,7 +15,8 @@ Max Player - To Make Video Player Widget
 * ColorTheme Options
 
 ## Installation
-```	dependencies:
+```	
+	dependencies:
 	  flutter_max_player: ^0.0.1
 	  video_player: ^0.11.0
 	  screen: ^0.0.5
